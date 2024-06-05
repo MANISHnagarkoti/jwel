@@ -26,7 +26,7 @@ const Collections = () => {
                         breakpoints={{
                             900: {
                                 slidesPerView: 'auto',
-                                spaceBetween: 80,
+                                spaceBetween: 60,
                                 initialSlide: 8
 
                             },
@@ -77,7 +77,7 @@ const Collections = () => {
                     breakpoints={{
                         900: {
                             slidesPerView: 'auto',
-                            spaceBetween: 150,
+                            spaceBetween: 140,
                             initialSlide: 6
 
                         },
