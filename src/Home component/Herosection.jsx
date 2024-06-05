@@ -32,7 +32,7 @@ const Herosection = () => {
             clickable: true,
           }}
           modules={[Pagination]}
-          className="mySwiper pb-12 h-[300px] md:h-auto"
+          className="mySwiper pb-12"
         >
           <SwiperSlide >
             <img src="homeimg/herosecOne.png" className="w-full h-full object-cover" alt="" />
