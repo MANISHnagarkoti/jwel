@@ -60,6 +60,15 @@ const Gold = () => {
 
             </div>
 
+            <div className='mt-[130px] grid md:grid-cols-3 gap-16 container'>
+
+                <img src="homeimg/offerOne.png" className='w-full' alt="" />
+                <img src="homeimg/offerTwo.png" className='w-full'  alt="" />
+                <img src="homeimg/offerThree.png" className='w-full'  alt="" />
+
+
+            </div>
+
 
         </div>
     )
