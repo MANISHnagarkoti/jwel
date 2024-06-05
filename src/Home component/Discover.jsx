@@ -57,7 +57,7 @@ const Discover = () => {
 
           <div className='bg-colorThree flex flex-col justify-center py-9 px-4 items-center text-lg'>
 
-            <div className=''>Witness the grandeur at the </div>
+            <div className='text-center'>Witness the grandeur at the </div>
             <div className='text-xl font-semibold md:text-4xl mt-6'>#WeddingAffairsWithUs </div>
             <div className='mt-16'>The Wedding Collection</div>
 
