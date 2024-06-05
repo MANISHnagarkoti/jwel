@@ -30,7 +30,7 @@ const Recommended = () => {
                         <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
                             GOLD JEWELLERY</div>
                         <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4  text-sm sm:text-base' >ADD TO CART</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
                     </div>
                 </div>
 
@@ -41,19 +41,7 @@ const Recommended = () => {
                         <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
                             GOLD JEWELLERY</div>
                         <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
-                    </div>
-                </div>
-
-
-                <div>
-                    <img src="homeimg/recommendedOne.png" alt="" />
-
-                    <div className='space-y-4 mt-4'>
-                        <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
-                            GOLD JEWELLERY</div>
-                        <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
                     </div>
                 </div>
 
@@ -65,7 +53,19 @@ const Recommended = () => {
                         <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
                             GOLD JEWELLERY</div>
                         <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
+                    </div>
+                </div>
+
+
+                <div>
+                    <img src="homeimg/recommendedOne.png" alt="" />
+
+                    <div className='space-y-4 mt-4'>
+                        <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
+                            GOLD JEWELLERY</div>
+                        <div className='font-semibold'>₹1,042</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
                     </div>
                 </div>
 
@@ -78,7 +78,7 @@ const Recommended = () => {
                         <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
                             GOLD JEWELLERY</div>
                         <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
                     </div>
                 </div>
 
@@ -89,19 +89,7 @@ const Recommended = () => {
                         <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
                             GOLD JEWELLERY</div>
                         <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
-                    </div>
-                </div>
-
-
-                <div>
-                    <img src="homeimg/recommendedOne.png" alt="" />
-
-                    <div className='space-y-4 mt-4'>
-                        <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
-                            GOLD JEWELLERY</div>
-                        <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
                     </div>
                 </div>
 
@@ -113,7 +101,19 @@ const Recommended = () => {
                         <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
                             GOLD JEWELLERY</div>
                         <div className='font-semibold'>₹1,042</div>
-                        <div className='py-4 bg-colorThree text-center px-4' >ADD TO CART</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
+                    </div>
+                </div>
+
+
+                <div>
+                    <img src="homeimg/recommendedOne.png" alt="" />
+
+                    <div className='space-y-4 mt-4'>
+                        <div className=' text-sm sm:text-base'>SURREAL DIAMOND AND ROSE
+                            GOLD JEWELLERY</div>
+                        <div className='font-semibold'>₹1,042</div>
+                        <div className='py-4 bg-colorThree text-center  text-sm  :text-base' >ADD TO CART</div>
                     </div>
                 </div>
 
