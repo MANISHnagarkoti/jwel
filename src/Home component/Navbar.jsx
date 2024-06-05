@@ -14,9 +14,9 @@ const Navbar = () => {
                 </div>
                 <nav className="container flex  justify-between items-center py-3 ">
                     <div className="flex gap-9 items-center">
-                        <a href="index.html">
+                    
                             <img src="logo/logo.png" className="w-24 md:w-44" alt="logo" />
-                        </a>
+              
 
                         <div className="hidden items-center rounded-lg bg-white px-4 w-full md:flex">
 
