@@ -4,7 +4,7 @@ const Gender = () => {
     return (
         <div className='container mt-[200px]'>
 
-            <div className='text-center text-2xl md:text-4xl playfair'>Shop By Gender</div>
+            <div className='text-center text-4xl playfair'>Shop By Gender</div>
 
             <div className='grid grid-cols-2 gap-9 mt-12'>
 
